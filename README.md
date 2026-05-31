@@ -3,6 +3,10 @@
 # ⚡ NeuralTrade: AI-Powered Stock Market Prediction
 **Predicting next-day stock price trends using advanced Machine Learning, Technical Indicators & Macroeconomic Data.**
 
+<img width="1600" height="893" alt="WhatsApp Image 2026-05-29 at 9 49 01 PM" src="https://github.com/user-attachments/assets/591fa871-848e-4ac7-bdc3-01a149bae371" />
+<img width="1600" height="888" alt="WhatsApp Image 2026-05-29 at 9 49 48 PM" src="https://github.com/user-attachments/assets/5dfffeb2-0862-428d-8d01-01eff817f6ca" />
+
+
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-171515.svg?style=flat&logo=xgboost&logoColor=white)](https://xgboost.ai/)
